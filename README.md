@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuriy Kochura</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yuriy Kochura</h1> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ykochura&label=Profile%20views&color=orange&style=flat" alt="ykochura" /> </p>
 
